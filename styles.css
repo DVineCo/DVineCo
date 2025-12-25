@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #f9f6f1;
+  color: #2c2c2c;
+  line-height: 1.6;
+}
+
+.hero {
+  background: linear-gradient(to bottom, #6b8e23, #556b2f);
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-size: 1.2rem;
+}
+
+.scripture {
+  font-style: italic;
+  margin-top: 20px;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.product-card {
+  background: white;
+  padding: 25px;
+  margin-bottom: 20px;
+  border-left: 6px solid #6b8e23;
+}
+
+.values ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.values li {
+  margin: 10px 0;
+  font-size: 1.1rem;
+}
+
+footer {
+  background-color: #2c2c2c;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
